@@ -1,0 +1,7 @@
+node_modules/
+.firebase/
+.npm-cache/
+.config/
+.chrome-profile/
+deploy-log.txt
+*.log
